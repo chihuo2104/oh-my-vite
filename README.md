@@ -2,7 +2,7 @@
 
 This Template is such a plain vite application with `@vitejs/plugin-legacy` and `browserslist`.
 
-And there is no `pania` and `vue-router`. It is only a singal page!
+And there is no `pania` and `vue-router`. It is only a single page!
 
 You can install `rollup-obfuscator` yourself and append these code in `vite.config.ts`:
 
